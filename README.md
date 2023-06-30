@@ -27,7 +27,7 @@ A React js project with simple static web page.
 
 ## Screen Shot
 
-<img width="250" alt="image" src="https://raw.githubusercontent.com/dostundegil/portfolio/master/screenshot.png">
+<img width="250" alt="image" src="https://raw.githubusercontent.com/dostundegil/portfolio/master/public/images/screenshot.png">
 
 
 
