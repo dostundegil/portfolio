@@ -1,0 +1,135 @@
+
+
+.info--image{
+    width: 317px;
+    height: 317px;
+    border-radius: 10px 10px 0px 0px;
+    flex-shrink: 0;
+}
+.info--name{
+    color: #FFF;
+    text-align: center;
+    font-size: 25px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.info--title{
+    color: #F3BF99;
+    text-align: center;
+    font-size: 12.8px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.info--website{
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 10.24px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.info--mail{
+    border-radius: 6px;
+    width: 115px;
+    height: 34px;
+    border: 1px solid var(--gray-300, #D1D5DB);
+    background: var(--white, #FFF);
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+
+.info--linkedin{
+    border-radius: 6px;
+    width: 115px;
+    height: 34px;
+    background: #5093E2;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+
+.info--buttons{
+    display: flex;
+    padding: 9px 13px 9px 11px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.about--wrapper{
+    width: 247px;
+    height: 201px;
+    flex-shrink: 0;
+    align-items: center;
+    padding: 10%;
+}
+
+.about--title{
+    color: #F5F5F5;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+}
+
+.about--text{
+    color: #DCDCDC;
+    font-size: 10.24px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.footer--wrapper{
+    display: flex;
+    width: 317px;
+    height: 64px;
+    flex-shrink: 0;
+    align-items: center;
+    border-radius: 0px 0px 10px 10px;
+    background: #161619;
+    margin-top: 30px;
+}
+
+.footer--icons{
+    width: 25px;
+    height: 25px;
+    flex-shrink: 0;
+    margin:auto;
+}
+
+.footer--twitter{
+    width: 25px;
+    height: 25px;
+    flex-shrink: 0;
+    margin-left:73px;
+}
+
+.footer--facebook{
+    width: 25px;
+    height: 25px;
+    flex-shrink: 0;
+    margin-left:25px;
+}
+
+.footer--github{
+    width: 25px;
+    height: 25px;
+    flex-shrink: 0;
+    margin-left:25px;
+}
+
+.footer--instagram{
+    width: 25px;
+    height: 25px;
+    flex-shrink: 0;
+    margin-left:25px;
+}
+
